@@ -2,7 +2,7 @@
 
 <br>
 <font>
-<div dir=ltr align=center>
+<div dir=ltr>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/sharif-logo-png-transparent.png" width=150 height=150>
 <div dir=ltr align=center>
 <font color=0F5298 size=7>
@@ -18,17 +18,6 @@
 
 > Language: **python** · Version: **3.12.1** · Kernel: **Python (notebook-venv)**
 
-## Table of Contents
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Data](#data)
-- [How to Run](#how-to-run)
-- [Notebook Structure](#notebook-structure)
-- [Functions & Classes](#functions--classes)
-- [Results / Outputs](#results--outputs)
-- [Reproducibility](#reproducibility)
-- [License](#license)
 
 ## Overview
 <br>
@@ -45,7 +34,6 @@
     Project-Phase1<br>
     Image Segmentation<br>
 <font color=696880 size=4>
-    Shayan Baghayi Nejad-Armin Khosravi
 
 ## Requirements
 The notebook uses the following Python packages (inferred from imports):
